@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+header {
+  height: 500px;
+
+  background-image: url("../img/banner.jpg");
+  background-size: cover;
+}
+.footer {
+  background-color: orange;
+  text-align: center;
+  font-size: large;
+}
+h1 {
+  padding-top: 250px;
+  display: flex;
+  justify-content: center;
+}
+.img1 {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 20px;
+}
+.img2 {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 20px;
+}
+.img3 {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 20px;
+}
+.texto {
+  padding-top: 120px;
+}
